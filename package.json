@@ -1,0 +1,13 @@
+{
+  "name": "api-astronomy-catalog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "vitest": "^0.28.5"
+  }
+}
